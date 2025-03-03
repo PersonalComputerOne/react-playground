@@ -1,5 +1,4 @@
 import ShoppingList from './ShoppingList';
-import './App.css';
 
 const data = [
   {item: "eggs", quantity: 12, completed: false},
